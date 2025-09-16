@@ -1,0 +1,1629 @@
+{
+  "table_of_contents": [
+    {
+      "title": "9\nPrinciples of More Complex Exodontia",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.25,
+          46.86935792863369
+        ],
+        [
+          543.0,
+          46.86935792863369
+        ],
+        [
+          543.0,
+          148.35467791557312
+        ],
+        [
+          47.25,
+          148.35467791557312
+        ]
+      ]
+    },
+    {
+      "title": "CHAPTER OUTLINE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.5,
+          208.9529732465744
+        ],
+        [
+          169.25653088092804,
+          208.9529732465744
+        ],
+        [
+          169.25653088092804,
+          221.89897906780243
+        ],
+        [
+          46.5,
+          221.89897906780243
+        ]
+      ]
+    },
+    {
+      "title": "Principles of Flap Design, Development, and",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.25,
+          229.28840267658234
+        ],
+        [
+          221.25,
+          229.28840267658234
+        ],
+        [
+          221.25,
+          240.4387634396553
+        ],
+        [
+          47.25,
+          240.4387634396553
+        ]
+      ]
+    },
+    {
+      "title": "Principles and Techniques for Open Extractions, 144\nIndications for Open Extraction, 145",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.5,
+          300.0
+        ],
+        [
+          252.95707762241364,
+          300.0
+        ],
+        [
+          252.95707762241364,
+          325.6205013692379
+        ],
+        [
+          46.5,
+          325.6205013692379
+        ]
+      ]
+    },
+    {
+      "title": "Multiple Extractions, 157",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.40749803185463,
+          380.1805522441864
+        ],
+        [
+          144.75,
+          380.1805522441864
+        ],
+        [
+          144.75,
+          390.39615082740784
+        ],
+        [
+          46.40749803185463,
+          390.39615082740784
+        ]
+      ]
+    },
+    {
+      "title": "Principles of Flap Design, Development,\nand Management",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.25,
+          652.4845365285873
+        ],
+        [
+          276.17664670944214,
+          652.4845365285873
+        ],
+        [
+          276.17664670944214,
+          684.391154050827
+        ],
+        [
+          47.25,
+          684.391154050827
+        ]
+      ]
+    },
+    {
+      "title": "Design Parameters for Soft Tissue Flaps",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.25,
+          353.59294107556343
+        ],
+        [
+          522.75,
+          352.06364420056343
+        ],
+        [
+          522.75,
+          364.85036382079124
+        ],
+        [
+          316.5735619068146,
+          366.37966069579124
+        ]
+      ]
+    },
+    {
+      "title": "Types of Mucoperiosteal Flaps",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.25,
+          432.0
+        ],
+        [
+          205.5,
+          430.7295824289322
+        ],
+        [
+          205.5,
+          442.3858040571213
+        ],
+        [
+          46.829763293266296,
+          443.9151009321213
+        ]
+      ]
+    },
+    {
+      "title": "Developing a Mucoperiosteal Flap",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.25,
+          618.75
+        ],
+        [
+          496.5,
+          618.0658360719681
+        ],
+        [
+          496.5,
+          629.2286578416824
+        ],
+        [
+          317.25,
+          630.7579547166824
+        ]
+      ]
+    },
+    {
+      "title": "Principles of Suturing",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.25,
+          573.5647344589233
+        ],
+        [
+          430.5,
+          572.0354375839233
+        ],
+        [
+          430.5,
+          585.1817529201508
+        ],
+        [
+          317.25,
+          586.7110497951508
+        ]
+      ]
+    },
+    {
+      "title": "Principles and Techniques for \nOpen Extractions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          311.25,
+          257.65420415997505
+        ],
+        [
+          477.50647830963135,
+          257.65420415997505
+        ],
+        [
+          477.50647830963135,
+          288.62918642163277
+        ],
+        [
+          311.25,
+          288.62918642163277
+        ]
+      ]
+    },
+    {
+      "title": "Indications for Open Extraction",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          46.5,
+          531.0
+        ],
+        [
+          212.1206202507019,
+          529.6993775367737
+        ],
+        [
+          211.5,
+          541.0287194252014
+        ],
+        [
+          46.5,
+          542.5580163002014
+        ]
+      ]
+    },
+    {
+      "title": "Technique for Open Extraction of a Single-Rooted Tooth",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          46.5,
+          486.0
+        ],
+        [
+          230.25073635578156,
+          485.149551987648
+        ],
+        [
+          230.25,
+          509.1473972797394
+        ],
+        [
+          46.5,
+          510.6766941547394
+        ]
+      ]
+    },
+    {
+      "title": "Technique for Open Extraction of \nMultirooted Teeth",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          317.25,
+          429.75
+        ],
+        [
+          492.3782844543457,
+          428.22692692279816
+        ],
+        [
+          492.0,
+          455.2535902261734
+        ],
+        [
+          316.6871910095215,
+          456.7828871011734
+        ]
+      ]
+    },
+    {
+      "title": "Removal of Root Fragments and Tips",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          47.25,
+          651.585150539875
+        ],
+        [
+          239.56431019306183,
+          650.055853664875
+        ],
+        [
+          239.56431019306183,
+          662.2482252717018
+        ],
+        [
+          47.25,
+          663.7775221467018
+        ]
+      ]
+    },
+    {
+      "title": "Justification for Leaving Root Fragments",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          40.5,
+          189.46057525277138
+        ],
+        [
+          253.3701367378235,
+          189.46057525277138
+        ],
+        [
+          253.3701367378235,
+          200.05063408613205
+        ],
+        [
+          40.5,
+          200.05063408613205
+        ]
+      ]
+    },
+    {
+      "title": "Multiple Extractions",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          47.25,
+          318.75
+        ],
+        [
+          162.0,
+          317.513963162899
+        ],
+        [
+          162.0,
+          329.6297019124031
+        ],
+        [
+          47.10560569167137,
+          331.1589987874031
+        ]
+      ]
+    },
+    {
+      "title": "Treatment Planning",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          46.5,
+          409.5
+        ],
+        [
+          151.42299950122833,
+          408.348774433136
+        ],
+        [
+          150.75,
+          419.6825033426285
+        ],
+        [
+          46.5,
+          421.2118002176285
+        ]
+      ]
+    },
+    {
+      "title": "Extraction Sequencing",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          47.25,
+          606.75
+        ],
+        [
+          165.75,
+          606.75
+        ],
+        [
+          165.75,
+          617.954527080059
+        ],
+        [
+          47.03083026409149,
+          619.483823955059
+        ]
+      ]
+    },
+    {
+      "title": "Technique for Multiple Extractions",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          317.25,
+          354.75
+        ],
+        [
+          497.25,
+          353.7349125444889
+        ],
+        [
+          497.25,
+          365.0857695043087
+        ],
+        [
+          316.69937467575073,
+          366.6150663793087
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          142
+        ],
+        [
+          "Span",
+          75
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4370,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          98
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          172
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          73
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Caption",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          59
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          119
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          72
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          130
+        ],
+        [
+          "Span",
+          53
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          122
+        ],
+        [
+          "Span",
+          58
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Caption",
+          5
+        ],
+        [
+          "PictureGroup",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          108
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          31
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Picture",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          106
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          74
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          86
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          96
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          193
+        ],
+        [
+          "Span",
+          114
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          16
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ch9"
+}

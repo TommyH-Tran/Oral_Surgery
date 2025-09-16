@@ -1,0 +1,1877 @@
+{
+  "table_of_contents": [
+    {
+      "title": "7\nInstrumentation for Basic Oral Surgery",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.25,
+          50.945833906531334
+        ],
+        [
+          546.0,
+          50.945833906531334
+        ],
+        [
+          546.0,
+          148.58519487082958
+        ],
+        [
+          47.25,
+          148.58519487082958
+        ]
+      ]
+    },
+    {
+      "title": "CHAPTER OUTLINE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.5,
+          209.094571352005
+        ],
+        [
+          166.99945199489594,
+          209.094571352005
+        ],
+        [
+          166.99945199489594,
+          221.81534564495087
+        ],
+        [
+          46.5,
+          221.81534564495087
+        ]
+      ]
+    },
+    {
+      "title": "Irrigating, 93",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.5,
+          482.198626935482
+        ],
+        [
+          101.94319760799408,
+          482.198626935482
+        ],
+        [
+          101.94319760799408,
+          492.4906716942787
+        ],
+        [
+          46.5,
+          492.4906716942787
+        ]
+      ]
+    },
+    {
+      "title": "Incising Tissue",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.25,
+          218.14949950575829
+        ],
+        [
+          400.1980519294739,
+          218.14949950575829
+        ],
+        [
+          400.1980519294739,
+          231.35615971684456
+        ],
+        [
+          317.25,
+          231.35615971684456
+        ]
+      ]
+    },
+    {
+      "title": "Elevating the Mucoperiosteum",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.25,
+          154.5
+        ],
+        [
+          221.25,
+          152.9928326010704
+        ],
+        [
+          221.25,
+          165.0
+        ],
+        [
+          47.01325696706772,
+          165.97160106897354
+        ]
+      ]
+    },
+    {
+      "title": "Retracting Soft Tissue",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.25,
+          54.0
+        ],
+        [
+          441.0,
+          53.34340509027243
+        ],
+        [
+          441.0,
+          65.53783019632101
+        ],
+        [
+          317.25,
+          67.06712707132101
+        ]
+      ]
+    },
+    {
+      "title": "Grasping Soft Tissue",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.25,
+          120.75
+        ],
+        [
+          163.5,
+          119.4515363574028
+        ],
+        [
+          163.5,
+          131.7296415567398
+        ],
+        [
+          46.67053207755089,
+          133.2589384317398
+        ]
+      ]
+    },
+    {
+      "title": "Controlling Hemorrhage",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.25,
+          99.0
+        ],
+        [
+          455.25,
+          98.1730257421732
+        ],
+        [
+          455.25,
+          110.42179857194424
+        ],
+        [
+          317.25,
+          111.95109544694424
+        ]
+      ]
+    },
+    {
+      "title": "Removing Bone",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.25,
+          432.0077456831932
+        ],
+        [
+          131.25,
+          432.0077456831932
+        ],
+        [
+          131.25,
+          443.89125233888626
+        ],
+        [
+          41.25,
+          443.89125233888626
+        ]
+      ]
+    },
+    {
+      "title": "Rongeurs",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.25,
+          453.66133493185043
+        ],
+        [
+          92.25,
+          453.66133493185043
+        ],
+        [
+          92.25,
+          464.40281599760056
+        ],
+        [
+          41.25,
+          464.40281599760056
+        ]
+      ]
+    },
+    {
+      "title": "Burr and Handpiece",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          310.9980025291443,
+          519.7053701877594
+        ],
+        [
+          415.51722478866577,
+          518.1760733127594
+        ],
+        [
+          415.51722478866577,
+          529.5
+        ],
+        [
+          310.9980025291443,
+          530.7313542366028
+        ]
+      ]
+    },
+    {
+      "title": "Mallet and Chisel",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.25,
+          418.5
+        ],
+        [
+          139.07545566558838,
+          417.9724051952362
+        ],
+        [
+          138.0,
+          430.1033585071564
+        ],
+        [
+          47.2302785217762,
+          431.6326553821564
+        ]
+      ]
+    },
+    {
+      "title": "Bone File",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.25,
+          519.75
+        ],
+        [
+          96.75,
+          518.4831647872925
+        ],
+        [
+          96.75,
+          529.7923450469971
+        ],
+        [
+          47.05199208855629,
+          531.3216419219971
+        ]
+      ]
+    },
+    {
+      "title": "Removing Soft Tissue From Bony Cavities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.25,
+          648.0
+        ],
+        [
+          281.77130234241486,
+          647.6494325995445
+        ],
+        [
+          281.25,
+          659.9352384209633
+        ],
+        [
+          46.62993657588959,
+          662.9938321709633
+        ]
+      ]
+    },
+    {
+      "title": "Suturing Soft Tissue",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.25,
+          362.8411315083504
+        ],
+        [
+          430.5,
+          361.3118346333504
+        ],
+        [
+          430.5,
+          374.8211526274681
+        ],
+        [
+          317.00881791114807,
+          376.3504495024681
+        ]
+      ]
+    },
+    {
+      "title": "Needle Holder",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.25,
+          431.25
+        ],
+        [
+          393.75,
+          429.8075612783432
+        ],
+        [
+          393.75,
+          442.28490257263184
+        ],
+        [
+          316.6991922855377,
+          443.81419944763184
+        ]
+      ]
+    },
+    {
+      "title": "Suture Needle",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.25,
+          651.0
+        ],
+        [
+          392.8106281757355,
+          649.7634167075157
+        ],
+        [
+          392.25,
+          661.7083416581154
+        ],
+        [
+          317.25,
+          663.2376385331154
+        ]
+      ]
+    },
+    {
+      "title": "Suture Material",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.25,
+          629.25
+        ],
+        [
+          123.00395965576172,
+          628.9836847186089
+        ],
+        [
+          122.25,
+          640.202230989933
+        ],
+        [
+          41.25,
+          641.731527864933
+        ]
+      ]
+    },
+    {
+      "title": "Scissors",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          311.25,
+          552.0
+        ],
+        [
+          353.73728227615356,
+          551.8723154067993
+        ],
+        [
+          353.73728227615356,
+          562.509254693985
+        ],
+        [
+          311.25,
+          564.038551568985
+        ]
+      ]
+    },
+    {
+      "title": "Holding the Mouth Open",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.25,
+          506.25
+        ],
+        [
+          190.5,
+          504.9173755645752
+        ],
+        [
+          190.5,
+          517.4229991436005
+        ],
+        [
+          47.25,
+          518.9522960186005
+        ]
+      ]
+    },
+    {
+      "title": "Removing Fluids",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          317.25,
+          594.0
+        ],
+        [
+          412.6159436702728,
+          592.4828760623932
+        ],
+        [
+          412.5,
+          604.8998258113861
+        ],
+        [
+          317.25,
+          606.4291226863861
+        ]
+      ]
+    },
+    {
+      "title": "Holding Towels and Drapes in Position",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          310.4547350406647,
+          647.1357777714729
+        ],
+        [
+          528.75,
+          647.1357777714729
+        ],
+        [
+          528.75,
+          660.6075727343559
+        ],
+        [
+          310.4547350406647,
+          660.6075727343559
+        ]
+      ]
+    },
+    {
+      "title": "Irrigating",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.25,
+          670.2554721236229
+        ],
+        [
+          100.5,
+          668.7261752486229
+        ],
+        [
+          100.5,
+          682.3196867108345
+        ],
+        [
+          47.135595202445984,
+          683.8489835858345
+        ]
+      ]
+    },
+    {
+      "title": "Extracting Teeth",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          317.25,
+          614.5993893742561
+        ],
+        [
+          410.25,
+          613.0700924992561
+        ],
+        [
+          410.25,
+          627.2602388262749
+        ],
+        [
+          317.25,
+          628.7895357012749
+        ]
+      ]
+    },
+    {
+      "title": "Dental Elevators",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          311.25,
+          134.25
+        ],
+        [
+          397.70226073265076,
+          132.98037426173687
+        ],
+        [
+          397.5,
+          144.50566197931767
+        ],
+        [
+          311.25,
+          146.03495885431767
+        ]
+      ]
+    },
+    {
+      "title": "Types of Elevators",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          311.25,
+          332.25
+        ],
+        [
+          406.20295786857605,
+          331.04173931479454
+        ],
+        [
+          405.75,
+          343.45948246121407
+        ],
+        [
+          311.25,
+          344.98877933621407
+        ]
+      ]
+    },
+    {
+      "title": "Periotomes",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          317.25,
+          684.0
+        ],
+        [
+          377.7546079158783,
+          683.328328192234
+        ],
+        [
+          377.7546079158783,
+          694.162310063839
+        ],
+        [
+          317.25,
+          695.691606938839
+        ]
+      ]
+    },
+    {
+      "title": "Extraction Forceps",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          41.25,
+          563.7041112184525
+        ],
+        [
+          138.75,
+          563.7041112184525
+        ],
+        [
+          138.75,
+          574.7803126573563
+        ],
+        [
+          41.25,
+          574.7803126573563
+        ]
+      ]
+    },
+    {
+      "title": "Forceps Components",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          40.5,
+          699.9420703053474
+        ],
+        [
+          134.25,
+          699.9420703053474
+        ],
+        [
+          134.25,
+          710.1577622294426
+        ],
+        [
+          40.5,
+          710.1577622294426
+        ]
+      ]
+    },
+    {
+      "title": "Maxillary Forceps",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          40.5,
+          348.6945286989212
+        ],
+        [
+          120.0,
+          348.6945286989212
+        ],
+        [
+          120.0,
+          358.3677234649658
+        ],
+        [
+          40.5,
+          358.3677234649658
+        ]
+      ]
+    },
+    {
+      "title": "Mandibular Forceps",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          46.5,
+          645.0
+        ],
+        [
+          135.75,
+          644.6439964771271
+        ],
+        [
+          135.75,
+          655.1057349443436
+        ],
+        [
+          46.5,
+          656.6350318193436
+        ]
+      ]
+    },
+    {
+      "title": "Instrument Tray Systems",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          317.25,
+          528.0
+        ],
+        [
+          458.4437463283539,
+          526.5633575320244
+        ],
+        [
+          457.2484338283539,
+          539.4183560013771
+        ],
+        [
+          317.1459023952484,
+          540.9476528763771
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          161
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 6404,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          136
+        ],
+        [
+          "Span",
+          66
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          104
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          111
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          107
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          153
+        ],
+        [
+          "Span",
+          81
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          65
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          75
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Caption",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          102
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          106
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Caption",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          166
+        ],
+        [
+          "Span",
+          81
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          19
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          94
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          19
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ch7"
+}

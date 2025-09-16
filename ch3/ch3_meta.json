@@ -1,0 +1,747 @@
+{
+  "table_of_contents": [
+    {
+      "title": "3\nPrinciples of Surgery",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          49.73507443070412
+        ],
+        [
+          310.5,
+          48.20577755570412
+        ],
+        [
+          310.5,
+          147.70425537228584
+        ],
+        [
+          41.25,
+          149.23355224728584
+        ]
+      ]
+    },
+    {
+      "title": "CHAPTER OUTLINE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          210.0
+        ],
+        [
+          160.5,
+          208.82465288043022
+        ],
+        [
+          160.5,
+          220.88322034478188
+        ],
+        [
+          40.94314196705818,
+          222.41251721978188
+        ]
+      ]
+    },
+    {
+      "title": "Flap Design, 40",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          289.8323736190796
+        ],
+        [
+          102.0,
+          288.3030767440796
+        ],
+        [
+          102.0,
+          298.5
+        ],
+        [
+          41.12187069654465,
+          299.6003560423851
+        ]
+      ]
+    },
+    {
+      "title": "Tissue Handling, 40",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.5,
+          337.5
+        ],
+        [
+          118.5,
+          336.77188888192177
+        ],
+        [
+          118.5,
+          346.5922355353832
+        ],
+        [
+          40.5,
+          348.1215324103832
+        ]
+      ]
+    },
+    {
+      "title": "Hemostasis, 40",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.5,
+          352.5
+        ],
+        [
+          101.25,
+          351.9914216995239
+        ],
+        [
+          101.25,
+          361.5462135672569
+        ],
+        [
+          40.5,
+          363.0755104422569
+        ]
+      ]
+    },
+    {
+      "title": "Developing a Surgical Diagnosis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          571.5081549882889
+        ],
+        [
+          224.25,
+          569.9788581132889
+        ],
+        [
+          224.25,
+          583.7136876583099
+        ],
+        [
+          41.25,
+          585.2429845333099
+        ]
+      ]
+    },
+    {
+      "title": "Basic Necessities for Surgery",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.25,
+          472.5
+        ],
+        [
+          472.5,
+          471.2061522603035
+        ],
+        [
+          472.5,
+          484.43040722608566
+        ],
+        [
+          311.25,
+          485.95970410108566
+        ]
+      ]
+    },
+    {
+      "title": "Aseptic Technique",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.25,
+          176.25
+        ],
+        [
+          151.37869691848755,
+          175.35506576299667
+        ],
+        [
+          150.75,
+          188.08666759729385
+        ],
+        [
+          47.19190362095833,
+          189.61596447229385
+        ]
+      ]
+    },
+    {
+      "title": "Incisions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.25,
+          242.25
+        ],
+        [
+          97.5,
+          241.30162981152534
+        ],
+        [
+          97.5,
+          252.99196752905846
+        ],
+        [
+          47.15397101640701,
+          254.52126440405846
+        ]
+      ]
+    },
+    {
+      "title": "Flap Design",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.25,
+          341.1181899905205
+        ],
+        [
+          109.3078773021698,
+          339.5888931155205
+        ],
+        [
+          108.75,
+          352.46083295345306
+        ],
+        [
+          40.658645153045654,
+          353.99012982845306
+        ]
+      ]
+    },
+    {
+      "title": "Prevention of Flap Necrosis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.25,
+          420.04830622673035
+        ],
+        [
+          184.5,
+          418.51900935173035
+        ],
+        [
+          184.5,
+          430.910197019577
+        ],
+        [
+          40.986003667116165,
+          432.439493894577
+        ]
+      ]
+    },
+    {
+      "title": "Prevention of Flap Dehiscence",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.5,
+          629.0617643594742
+        ],
+        [
+          200.25,
+          627.5324674844742
+        ],
+        [
+          200.25,
+          640.0843881368637
+        ],
+        [
+          40.5,
+          641.6136850118637
+        ]
+      ]
+    },
+    {
+      "title": "Prevention of Flap Tearing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          310.77358961105347,
+          57.0
+        ],
+        [
+          449.25,
+          55.570710852742195
+        ],
+        [
+          449.25,
+          68.56306041777134
+        ],
+        [
+          310.77358961105347,
+          70.09235729277134
+        ]
+      ]
+    },
+    {
+      "title": "Tissue Handling",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.25,
+          284.50711342692375
+        ],
+        [
+          402.0,
+          282.97781655192375
+        ],
+        [
+          402.0,
+          296.37559220194817
+        ],
+        [
+          310.3862292766571,
+          297.90488907694817
+        ]
+      ]
+    },
+    {
+      "title": "Hemostasis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          310.52032256126404,
+          615.4467844963074
+        ],
+        [
+          377.25,
+          613.9174876213074
+        ],
+        [
+          377.25,
+          627.4431402683258
+        ],
+        [
+          310.52032256126404,
+          628.9724371433258
+        ]
+      ]
+    },
+    {
+      "title": "Means of Promoting Wound Hemostasis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.25,
+          585.75
+        ],
+        [
+          257.25,
+          584.3399115800858
+        ],
+        [
+          257.25,
+          596.047750711441
+        ],
+        [
+          47.25,
+          597.577047586441
+        ]
+      ]
+    },
+    {
+      "title": "Dead Space Management",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.25,
+          695.9528680443764
+        ],
+        [
+          176.25,
+          694.4235711693764
+        ],
+        [
+          176.25,
+          706.4410219788551
+        ],
+        [
+          41.25,
+          707.9703188538551
+        ]
+      ]
+    },
+    {
+      "title": "Decontamination and Debridement",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.0,
+          428.25
+        ],
+        [
+          250.1968388557434,
+          427.43189603090286
+        ],
+        [
+          249.75,
+          440.12009435892105
+        ],
+        [
+          46.910753667354584,
+          441.64939123392105
+        ]
+      ]
+    },
+    {
+      "title": "Inflammation Control",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.25,
+          53.76605840027332
+        ],
+        [
+          439.5,
+          52.23676152527332
+        ],
+        [
+          439.5,
+          66.41044485569
+        ],
+        [
+          317.25,
+          67.93974173069
+        ]
+      ]
+    },
+    {
+      "title": "Patient General Health and Wound Healing",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.25,
+          351.0552360713482
+        ],
+        [
+          561.7166962623596,
+          349.5259391963482
+        ],
+        [
+          561.0,
+          362.93094876408577
+        ],
+        [
+          317.25,
+          364.46024563908577
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          169
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4162,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          153
+        ],
+        [
+          "Span",
+          103
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          82
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          79
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          132
+        ],
+        [
+          "Span",
+          68
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ch3"
+}

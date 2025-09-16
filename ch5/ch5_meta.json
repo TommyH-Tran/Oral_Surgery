@@ -1,0 +1,1502 @@
+{
+  "table_of_contents": [
+    {
+      "title": "5\nInfection Control in Surgical Practice",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          47.484719306230545
+        ],
+        [
+          515.0802118778229,
+          47.484719306230545
+        ],
+        [
+          514.5,
+          150.6571405827999
+        ],
+        [
+          41.25,
+          150.6571405827999
+        ]
+      ]
+    },
+    {
+      "title": "CHAPTER OUTLINE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          208.46186023950577
+        ],
+        [
+          160.67217135429382,
+          208.46186023950577
+        ],
+        [
+          160.67217135429382,
+          221.55053758621216
+        ],
+        [
+          41.25,
+          221.55053758621216
+        ]
+      ]
+    },
+    {
+      "title": "Communicable Pathogenic Organisms, 56",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          228.91650930047035
+        ],
+        [
+          206.40607953071594,
+          228.91650930047035
+        ],
+        [
+          205.5,
+          239.55862900614738
+        ],
+        [
+          41.25,
+          239.55862900614738
+        ]
+      ]
+    },
+    {
+      "title": "Aseptic Techniques, 58",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.5,
+          332.25
+        ],
+        [
+          130.5,
+          332.25
+        ],
+        [
+          130.5,
+          343.12126180529594
+        ],
+        [
+          40.5,
+          343.12126180529594
+        ]
+      ]
+    },
+    {
+      "title": "Communicable Pathogenic Organisms",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          310.9891748428345,
+          305.6437575817108
+        ],
+        [
+          528.0,
+          305.6437575817108
+        ],
+        [
+          528.0,
+          320.39562928676605
+        ],
+        [
+          309.7938623428345,
+          320.39562928676605
+        ]
+      ]
+    },
+    {
+      "title": "Bacteria",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.25,
+          427.9313630461693
+        ],
+        [
+          354.75,
+          427.9313630461693
+        ],
+        [
+          354.75,
+          440.9750967621803
+        ],
+        [
+          310.70698070526123,
+          440.9750967621803
+        ]
+      ]
+    },
+    {
+      "title": "Upper Respiratory Tract Flora",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.25,
+          446.0802358388901
+        ],
+        [
+          441.0,
+          444.5509389638901
+        ],
+        [
+          441.0,
+          456.8892956972122
+        ],
+        [
+          310.9136288166046,
+          458.4185925722122
+        ]
+      ]
+    },
+    {
+      "title": "Maxillofacial Skin Flora",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5,
+          358.5
+        ],
+        [
+          150.7690029144287,
+          357.872200101614
+        ],
+        [
+          150.7690029144287,
+          368.39680364727974
+        ],
+        [
+          46.5,
+          369.92610052227974
+        ]
+      ]
+    },
+    {
+      "title": "Nonmaxillofacial Flora",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5,
+          546.0
+        ],
+        [
+          148.5,
+          546.0
+        ],
+        [
+          148.5,
+          555.9782404303551
+        ],
+        [
+          46.5,
+          557.5075373053551
+        ]
+      ]
+    },
+    {
+      "title": "Viral Organisms",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5,
+          651.75
+        ],
+        [
+          131.21675384044647,
+          650.4539058208466
+        ],
+        [
+          130.5,
+          662.4166588783264
+        ],
+        [
+          46.5,
+          663.9459557533264
+        ]
+      ]
+    },
+    {
+      "title": "Hepatitis Viruses",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          316.5,
+          128.25
+        ],
+        [
+          391.5,
+          127.1408758610487
+        ],
+        [
+          391.5,
+          137.06849451363087
+        ],
+        [
+          316.5,
+          138.59779138863087
+        ]
+      ]
+    },
+    {
+      "title": "BOX 5.1 Methods Designed to Limit the Spread of Hepatitis Viruses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.99563825130463,
+          56.25
+        ],
+        [
+          277.5,
+          55.25873064994812
+        ],
+        [
+          277.5,
+          78.0
+        ],
+        [
+          43.99563825130463,
+          78.0
+        ]
+      ]
+    },
+    {
+      "title": "From Infected Patient to Other Patients",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.25,
+          86.25
+        ],
+        [
+          192.17559385299683,
+          85.68393516540527
+        ],
+        [
+          192.17559385299683,
+          95.25
+        ],
+        [
+          41.25,
+          96.45602037012577
+        ]
+      ]
+    },
+    {
+      "title": "From Infected Patient to Dental Staff",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.5,
+          226.33134046196938
+        ],
+        [
+          183.5710254907608,
+          224.80204358696938
+        ],
+        [
+          182.3757129907608,
+          235.7091113626957
+        ],
+        [
+          40.5,
+          237.2384082376957
+        ]
+      ]
+    },
+    {
+      "title": "Human Immunodeficiency Virus",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.5,
+          545.6100295186043
+        ],
+        [
+          183.0,
+          544.0807326436043
+        ],
+        [
+          183.0,
+          555.769530236721
+        ],
+        [
+          40.5,
+          557.298827111721
+        ]
+      ]
+    },
+    {
+      "title": "Mycobacterial Organisms",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.0240478515625,
+          287.25070506334305
+        ],
+        [
+          444.75,
+          285.72140818834305
+        ],
+        [
+          444.75,
+          298.7182847857475
+        ],
+        [
+          309.8287353515625,
+          300.2475816607475
+        ]
+      ]
+    },
+    {
+      "title": "Aseptic Techniques",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.25,
+          628.9812111854553
+        ],
+        [
+          420.75,
+          627.4519143104553
+        ],
+        [
+          420.75,
+          642.6080453395844
+        ],
+        [
+          311.25,
+          644.1373422145844
+        ]
+      ]
+    },
+    {
+      "title": "Terminology",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          310.82064628601074,
+          650.5182643532753
+        ],
+        [
+          379.17312955856323,
+          648.9889674782753
+        ],
+        [
+          379.17312955856323,
+          662.3947704434395
+        ],
+        [
+          310.82064628601074,
+          663.9240673184395
+        ]
+      ]
+    },
+    {
+      "title": "Concepts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.25,
+          299.69740721583366
+        ],
+        [
+          96.98242092132568,
+          298.16811034083366
+        ],
+        [
+          96.0,
+          309.96401658654213
+        ],
+        [
+          46.878529876470566,
+          311.49331346154213
+        ]
+      ]
+    },
+    {
+      "title": "Techniques of Instrument Sterilization",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.5,
+          497.4868353009224
+        ],
+        [
+          247.28111243247986,
+          495.9575384259224
+        ],
+        [
+          246.75,
+          508.34760600328445
+        ],
+        [
+          46.5,
+          509.87690287828445
+        ]
+      ]
+    },
+    {
+      "title": "BOX 5.2 General Methods of Reducing\nthe Number of Viable Organisms\nFrom a Surface",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          52.9931663274765,
+          585.75
+        ],
+        [
+          261.0532697439194,
+          585.2128821015358
+        ],
+        [
+          259.8579572439194,
+          619.8398260474205
+        ],
+        [
+          51.7978538274765,
+          621.3691229224205
+        ]
+      ]
+    },
+    {
+      "title": "Physical",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.5,
+          628.5
+        ],
+        [
+          80.70631045103073,
+          627.792608499527
+        ],
+        [
+          80.25,
+          638.592427611351
+        ],
+        [
+          46.5,
+          640.121724486351
+        ]
+      ]
+    },
+    {
+      "title": "0.....",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.478470504283905,
+          669.8471058011055
+        ],
+        [
+          83.25162971019745,
+          668.3178089261055
+        ],
+        [
+          82.05631721019745,
+          679.5497029423714
+        ],
+        [
+          47.283158004283905,
+          681.0789998173714
+        ]
+      ]
+    },
+    {
+      "title": "Sterilization With Heat",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.25,
+          56.25
+        ],
+        [
+          435.0,
+          55.07525749504566
+        ],
+        [
+          435.0,
+          67.77303493022919
+        ],
+        [
+          317.25,
+          69.30233180522919
+        ]
+      ]
+    },
+    {
+      "title": "Dry Heat",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.25,
+          424.38688337802887
+        ],
+        [
+          358.5,
+          422.85758650302887
+        ],
+        [
+          358.5,
+          434.5232355594635
+        ],
+        [
+          317.25,
+          436.0525324344635
+        ]
+      ]
+    },
+    {
+      "title": "Moist Heat",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.25,
+          678.0372540950775
+        ],
+        [
+          366.75,
+          676.5079572200775
+        ],
+        [
+          366.75,
+          688.0911862850189
+        ],
+        [
+          317.25,
+          689.6204831600189
+        ]
+      ]
+    },
+    {
+      "title": "Sterilization With Gas",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.25,
+          56.25
+        ],
+        [
+          159.0,
+          56.25
+        ],
+        [
+          159.0,
+          67.79351158440113
+        ],
+        [
+          47.25,
+          69.32280845940113
+        ]
+      ]
+    },
+    {
+      "title": "Techniques of Instrument Disinfection",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.25,
+          177.75
+        ],
+        [
+          517.360965013504,
+          177.36689995229244
+        ],
+        [
+          516.75,
+          188.26470364630222
+        ],
+        [
+          317.25,
+          189.79400052130222
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 5.5\n        Biocidal Activity of Various Chemical Disinfectants",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.75,
+          54.75
+        ],
+        [
+          331.89379262924194,
+          54.75
+        ],
+        [
+          331.89379262924194,
+          66.0
+        ],
+        [
+          45.75,
+          66.0
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 5.6\n        Methods of Sterilization or Disinfection of Selected Dental Instruments",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.75,
+          376.5
+        ],
+        [
+          423.0,
+          376.5
+        ],
+        [
+          423.0,
+          388.5
+        ],
+        [
+          45.75,
+          389.32228741049767
+        ]
+      ]
+    },
+    {
+      "title": "Maintenance of Sterility",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.25,
+          297.0
+        ],
+        [
+          173.25,
+          295.8826357126236
+        ],
+        [
+          173.25,
+          307.7542414069176
+        ],
+        [
+          46.74983990192413,
+          309.2835382819176
+        ]
+      ]
+    },
+    {
+      "title": "Disposable Materials",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.25,
+          313.5
+        ],
+        [
+          140.25,
+          312.03539058566093
+        ],
+        [
+          140.25,
+          323.2285948097706
+        ],
+        [
+          46.62505307793617,
+          324.7578916847706
+        ]
+      ]
+    },
+    {
+      "title": "Surgical Field Maintenance",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.25,
+          524.1054589748383
+        ],
+        [
+          167.25,
+          522.5761620998383
+        ],
+        [
+          167.25,
+          533.2324229478836
+        ],
+        [
+          47.082961946725845,
+          534.7617198228836
+        ]
+      ]
+    },
+    {
+      "title": "Operatory Disinfection",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          317.25,
+          57.0
+        ],
+        [
+          437.25,
+          56.068229377269745
+        ],
+        [
+          437.25,
+          67.95013757050037
+        ],
+        [
+          317.25,
+          69.47943444550037
+        ]
+      ]
+    },
+    {
+      "title": "Surgical Staff Preparation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          317.25,
+          464.3712667822838
+        ],
+        [
+          451.0406005382538,
+          462.8419699072838
+        ],
+        [
+          450.75,
+          474.8945168852806
+        ],
+        [
+          316.61500096321106,
+          476.4238137602806
+        ]
+      ]
+    },
+    {
+      "title": "Hand and Arm Preparation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          316.5,
+          556.5
+        ],
+        [
+          438.0,
+          555.517416536808
+        ],
+        [
+          438.0,
+          566.4522065520287
+        ],
+        [
+          316.5,
+          567.9815034270287
+        ]
+      ]
+    },
+    {
+      "title": "Clean Technique",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          41.25,
+          238.30541110038757
+        ],
+        [
+          114.75,
+          238.30541110038757
+        ],
+        [
+          114.75,
+          248.33106100559235
+        ],
+        [
+          41.25,
+          248.33106100559235
+        ]
+      ]
+    },
+    {
+      "title": "Sterile Technique",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.25,
+          270.9436577260494
+        ],
+        [
+          388.1762752532959,
+          270.9436577260494
+        ],
+        [
+          387.0,
+          281.35942581295967
+        ],
+        [
+          311.12399768829346,
+          281.35942581295967
+        ]
+      ]
+    },
+    {
+      "title": "Postsurgical Asepsis",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.25,
+          584.3742143511772
+        ],
+        [
+          417.0,
+          584.3742143511772
+        ],
+        [
+          417.0,
+          595.5310623049736
+        ],
+        [
+          310.2097849845886,
+          595.5310623049736
+        ]
+      ]
+    },
+    {
+      "title": "Wounds Management",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.25,
+          601.5
+        ],
+        [
+          409.5,
+          600.010817527771
+        ],
+        [
+          409.5,
+          610.5
+        ],
+        [
+          311.25,
+          611.5651109218597
+        ]
+      ]
+    },
+    {
+      "title": "Sharps Management",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          310.65383219718933,
+          689.25
+        ],
+        [
+          404.25,
+          687.7444249391556
+        ],
+        [
+          404.25,
+          697.9421954154968
+        ],
+        [
+          310.65383219718933,
+          699.4714922904968
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          140
+        ],
+        [
+          "Span",
+          93
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 7325,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          160
+        ],
+        [
+          "Span",
+          98
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2494,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          183
+        ],
+        [
+          "Span",
+          116
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          181
+        ],
+        [
+          "Span",
+          98
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          91
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 2772,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          111
+        ],
+        [
+          "TableCell",
+          103
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 4,
+        "llm_error_count": 0,
+        "llm_tokens_used": 9949,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          196
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 7508,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          159
+        ],
+        [
+          "Span",
+          99
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          186
+        ],
+        [
+          "Span",
+          86
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          27
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ch5"
+}

@@ -1,0 +1,2501 @@
+{
+  "table_of_contents": [
+    {
+      "title": "8\nPrinciples of Routine Exodontia",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          49.4096414744854
+        ],
+        [
+          447.0,
+          47.8803445994854
+        ],
+        [
+          447.0,
+          147.49895212054253
+        ],
+        [
+          41.25,
+          149.02824899554253
+        ]
+      ]
+    },
+    {
+      "title": "CHAPTER OUTLINE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.5,
+          209.60456255078316
+        ],
+        [
+          160.5,
+          208.07526567578316
+        ],
+        [
+          160.5,
+          220.79323974251747
+        ],
+        [
+          40.5,
+          222.32253661751747
+        ]
+      ]
+    },
+    {
+      "title": "Presurgical Medical Assessment, 106",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.5,
+          229.5
+        ],
+        [
+          185.25,
+          228.358214199543
+        ],
+        [
+          185.25,
+          238.62207001447678
+        ],
+        [
+          40.5,
+          240.15136688947678
+        ]
+      ]
+    },
+    {
+      "title": "Indications for Removal of Teeth, 107",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.5,
+          243.95234727859497
+        ],
+        [
+          189.7171926498413,
+          242.42305040359497
+        ],
+        [
+          188.5218801498413,
+          253.5
+        ],
+        [
+          40.5,
+          254.02448093891144
+        ]
+      ]
+    },
+    {
+      "title": "Presurgical Medical Assessment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.25,
+          670.5747445821762
+        ],
+        [
+          492.0,
+          669.0454477071762
+        ],
+        [
+          492.0,
+          682.8922863006592
+        ],
+        [
+          311.25,
+          684.4215831756592
+        ]
+      ]
+    },
+    {
+      "title": "Indications for Removal of Teeth",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.25,
+          119.48590913414955
+        ],
+        [
+          231.0,
+          119.48590913414955
+        ],
+        [
+          231.0,
+          132.1622298359871
+        ],
+        [
+          47.25,
+          132.1622298359871
+        ]
+      ]
+    },
+    {
+      "title": "Caries",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5,
+          187.89745397865772
+        ],
+        [
+          80.30807054042816,
+          187.89745397865772
+        ],
+        [
+          80.30807054042816,
+          200.31086844205856
+        ],
+        [
+          46.5,
+          200.31086844205856
+        ]
+      ]
+    },
+    {
+      "title": "Pulpal Necrosis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.09012532234192,
+          308.4773298203945
+        ],
+        [
+          127.5,
+          308.4773298203945
+        ],
+        [
+          127.5,
+          321.47929349541664
+        ],
+        [
+          47.09012532234192,
+          321.47929349541664
+        ]
+      ]
+    },
+    {
+      "title": "Periodontal Disease",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5,
+          439.95679450035095
+        ],
+        [
+          151.88727378845215,
+          439.95679450035095
+        ],
+        [
+          151.5,
+          453.1395127773285
+        ],
+        [
+          46.5,
+          453.1395127773285
+        ]
+      ]
+    },
+    {
+      "title": "Orthodontic Reasons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.5,
+          551.1237215995789
+        ],
+        [
+          159.16998732089996,
+          549.5944247245789
+        ],
+        [
+          159.0,
+          562.9696118831635
+        ],
+        [
+          46.5,
+          564.4989087581635
+        ]
+      ]
+    },
+    {
+      "title": "Malpositioned Teeth",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.25,
+          683.2369474768639
+        ],
+        [
+          155.28482043743134,
+          681.7076506018639
+        ],
+        [
+          154.5,
+          695.2352634072304
+        ],
+        [
+          47.14140889048576,
+          696.7645602822304
+        ]
+      ]
+    },
+    {
+      "title": "Cracked Teeth",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.25,
+          166.23680582642555
+        ],
+        [
+          393.1015770435333,
+          164.70750895142555
+        ],
+        [
+          391.9062645435333,
+          177.83746629953384
+        ],
+        [
+          316.9384882450104,
+          179.36676317453384
+        ]
+      ]
+    },
+    {
+      "title": "Impacted Teeth",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.25,
+          265.8296045958996
+        ],
+        [
+          399.91469049453735,
+          264.3003077208996
+        ],
+        [
+          399.0,
+          277.083853751421
+        ],
+        [
+          317.25,
+          278.613150626421
+        ]
+      ]
+    },
+    {
+      "title": "Supernumerary Teeth",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.25,
+          364.89197051525116
+        ],
+        [
+          431.25,
+          363.36267364025116
+        ],
+        [
+          431.25,
+          376.184162735939
+        ],
+        [
+          317.11055517196655,
+          377.713459610939
+        ]
+      ]
+    },
+    {
+      "title": "Teeth Associated With Pathologic Lesions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.25,
+          441.0
+        ],
+        [
+          533.6541745662689,
+          439.5766171216965
+        ],
+        [
+          533.25,
+          452.4417897462845
+        ],
+        [
+          317.25,
+          453.9710866212845
+        ]
+      ]
+    },
+    {
+      "title": "Radiation Therapy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.25,
+          540.469280898571
+        ],
+        [
+          413.7521982192993,
+          538.939984023571
+        ],
+        [
+          412.5568857192993,
+          552.1519179940224
+        ],
+        [
+          317.25,
+          553.6812148690224
+        ]
+      ]
+    },
+    {
+      "title": "Teeth Involved in Jaw Fractures",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.25,
+          639.632058262825
+        ],
+        [
+          484.1794066429138,
+          638.102761387825
+        ],
+        [
+          482.9840941429138,
+          650.6859512329102
+        ],
+        [
+          317.25,
+          652.2152481079102
+        ]
+      ]
+    },
+    {
+      "title": "Financial Issues",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.25,
+          57.0
+        ],
+        [
+          122.25,
+          57.0
+        ],
+        [
+          122.25,
+          67.9837811216712
+        ],
+        [
+          41.25,
+          67.9837811216712
+        ]
+      ]
+    },
+    {
+      "title": "Contraindications for Removal of Teeth",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.25,
+          164.25
+        ],
+        [
+          261.75,
+          164.25
+        ],
+        [
+          261.75,
+          176.5571562051773
+        ],
+        [
+          41.25,
+          176.5571562051773
+        ]
+      ]
+    },
+    {
+      "title": "Local Contraindications",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.5,
+          321.0
+        ],
+        [
+          164.25,
+          321.0
+        ],
+        [
+          164.25,
+          332.5555182695389
+        ],
+        [
+          40.5,
+          332.5555182695389
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Evaluation of Teeth for Removal",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.25,
+          691.5
+        ],
+        [
+          265.5,
+          691.5
+        ],
+        [
+          265.5,
+          704.9953585267067
+        ],
+        [
+          41.25,
+          704.9953585267067
+        ]
+      ]
+    },
+    {
+      "title": "Access to the Tooth",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          310.51791501045227,
+          90.0
+        ],
+        [
+          412.60062289237976,
+          90.0
+        ],
+        [
+          412.60062289237976,
+          101.62187768518925
+        ],
+        [
+          310.51791501045227,
+          101.62187768518925
+        ]
+      ]
+    },
+    {
+      "title": "Mobility of the Tooth",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.25,
+          332.25
+        ],
+        [
+          421.5,
+          332.25
+        ],
+        [
+          421.5,
+          343.8298590481281
+        ],
+        [
+          311.25,
+          343.8298590481281
+        ]
+      ]
+    },
+    {
+      "title": "Condition of the Crown",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.25,
+          519.0
+        ],
+        [
+          434.25,
+          519.0
+        ],
+        [
+          434.25,
+          530.4124084711075
+        ],
+        [
+          311.25,
+          530.4124084711075
+        ]
+      ]
+    },
+    {
+      "title": "Radiographic Examination of the Tooth for Removal",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.25,
+          652.9307525753975
+        ],
+        [
+          540.0499062538147,
+          652.9307525753975
+        ],
+        [
+          540.0499062538147,
+          684.2739645838737
+        ],
+        [
+          317.25,
+          684.2739645838737
+        ]
+      ]
+    },
+    {
+      "title": "Relationship to Vital Structures",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.25,
+          431.25
+        ],
+        [
+          204.0,
+          431.25
+        ],
+        [
+          204.0,
+          442.56305837631226
+        ],
+        [
+          41.25,
+          442.56305837631226
+        ]
+      ]
+    },
+    {
+      "title": "Configuration of Roots",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          311.25,
+          233.25
+        ],
+        [
+          430.5,
+          233.0105800330639
+        ],
+        [
+          430.5,
+          243.95083048939705
+        ],
+        [
+          310.6918423175812,
+          245.48012736439705
+        ]
+      ]
+    },
+    {
+      "title": "Condition of Surrounding Bone",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.25,
+          618.0
+        ],
+        [
+          206.25,
+          617.0592947602272
+        ],
+        [
+          206.25,
+          629.2888160347939
+        ],
+        [
+          41.234751999378204,
+          630.8181129097939
+        ]
+      ]
+    },
+    {
+      "title": "Patient and Surgeon Preparation",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          311.25,
+          626.25
+        ],
+        [
+          498.0,
+          625.6965925097466
+        ],
+        [
+          498.0,
+          638.2417926192284
+        ],
+        [
+          310.22047305107117,
+          639.7710894942284
+        ]
+      ]
+    },
+    {
+      "title": "Chair Position for Extractions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          317.25,
+          449.75688618421555
+        ],
+        [
+          482.25,
+          448.22758930921555
+        ],
+        [
+          482.25,
+          462.30665999650955
+        ],
+        [
+          317.25,
+          463.83595687150955
+        ]
+      ]
+    },
+    {
+      "title": "Mechanical Principles Involved in Tooth Extraction",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          311.25,
+          642.75
+        ],
+        [
+          502.0208902359009,
+          642.75
+        ],
+        [
+          500.8255777359009,
+          671.1381034255028
+        ],
+        [
+          310.5990786552429,
+          672.6674003005028
+        ]
+      ]
+    },
+    {
+      "title": "Principles of Elevator and Forceps Use",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.25,
+          330.0
+        ],
+        [
+          263.16179180145264,
+          328.5260394215584
+        ],
+        [
+          262.5,
+          341.25
+        ],
+        [
+          46.967659413814545,
+          342.5084556341171
+        ]
+      ]
+    },
+    {
+      "title": "Procedure for Closed Extraction",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.25,
+          306.0
+        ],
+        [
+          226.5,
+          306.0
+        ],
+        [
+          226.5,
+          319.1322838962078
+        ],
+        [
+          46.4332834482193,
+          320.6615807712078
+        ]
+      ]
+    },
+    {
+      "title": "Role of the Opposite Hand",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          317.25,
+          464.3105018734932
+        ],
+        [
+          456.75,
+          464.3105018734932
+        ],
+        [
+          456.75,
+          475.8732892870903
+        ],
+        [
+          317.25,
+          475.8732892870903
+        ]
+      ]
+    },
+    {
+      "title": "Role of the Assistant During Extraction",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          41.25,
+          57.0
+        ],
+        [
+          245.25,
+          56.380040399730206
+        ],
+        [
+          245.25,
+          67.90229453891516
+        ],
+        [
+          41.25,
+          69.43159141391516
+        ]
+      ]
+    },
+    {
+      "title": "Specific Techniques for the Removal of Each Tooth",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          311.25,
+          57.15113519132137
+        ],
+        [
+          517.1216325759888,
+          55.62183831632137
+        ],
+        [
+          517.1216325759888,
+          86.03674033284187
+        ],
+        [
+          311.25,
+          87.56603720784187
+        ]
+      ]
+    },
+    {
+      "title": "Maxillary Teeth",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          311.25,
+          167.25
+        ],
+        [
+          391.94110107421875,
+          166.12147150933743
+        ],
+        [
+          391.5,
+          177.75
+        ],
+        [
+          310.79912424087524,
+          179.13188253343105
+        ]
+      ]
+    },
+    {
+      "title": "Incisors",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          311.25,
+          325.5
+        ],
+        [
+          345.75,
+          325.4531178474426
+        ],
+        [
+          345.75,
+          335.7587903738022
+        ],
+        [
+          310.2796769142151,
+          337.2880872488022
+        ]
+      ]
+    },
+    {
+      "title": "Canines",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          47.25,
+          84.0
+        ],
+        [
+          84.0,
+          84.0
+        ],
+        [
+          84.0,
+          93.92792947590351
+        ],
+        [
+          47.25,
+          93.92792947590351
+        ]
+      ]
+    },
+    {
+      "title": "First Premolar",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          311.25,
+          402.75
+        ],
+        [
+          375.75,
+          402.49779510498047
+        ],
+        [
+          375.75,
+          412.6350806951523
+        ],
+        [
+          311.25,
+          414.1643775701523
+        ]
+      ]
+    },
+    {
+      "title": "Second Premolar",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          46.5,
+          600.75
+        ],
+        [
+          123.0,
+          600.460720539093
+        ],
+        [
+          123.0,
+          610.4348462820053
+        ],
+        [
+          46.5,
+          611.9641431570053
+        ]
+      ]
+    },
+    {
+      "title": "Molars",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          317.25,
+          634.5
+        ],
+        [
+          349.04631543159485,
+          633.5686817765236
+        ],
+        [
+          349.04631543159485,
+          643.5061245560646
+        ],
+        [
+          317.25,
+          645.0354214310646
+        ]
+      ]
+    },
+    {
+      "title": "Mandibular Teeth",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          311.25,
+          430.5
+        ],
+        [
+          403.5,
+          430.5
+        ],
+        [
+          403.5,
+          442.7191243171692
+        ],
+        [
+          311.25,
+          442.7191243171692
+        ]
+      ]
+    },
+    {
+      "title": "Anterior Teeth",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          311.25,
+          611.25
+        ],
+        [
+          374.7479782104492,
+          611.25
+        ],
+        [
+          374.7479782104492,
+          621.7093037366867
+        ],
+        [
+          311.25,
+          623.2386006116867
+        ]
+      ]
+    },
+    {
+      "title": "Premolars",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          40.5,
+          139.5
+        ],
+        [
+          87.0,
+          139.5
+        ],
+        [
+          87.0,
+          149.15613766014576
+        ],
+        [
+          40.5,
+          149.15613766014576
+        ]
+      ]
+    },
+    {
+      "title": "Molars",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          311.25,
+          139.5
+        ],
+        [
+          343.4307761192322,
+          139.5
+        ],
+        [
+          343.4307761192322,
+          149.18249478936195
+        ],
+        [
+          311.25,
+          149.18249478936195
+        ]
+      ]
+    },
+    {
+      "title": "Modifications for Extraction of Primary Teeth",
+      "heading_level": null,
+      "page_id": 25,
+      "polygon": [
+        [
+          317.25,
+          695.25
+        ],
+        [
+          551.25,
+          694.1988530158997
+        ],
+        [
+          551.25,
+          706.8221794366837
+        ],
+        [
+          317.25,
+          708.3514763116837
+        ]
+      ]
+    },
+    {
+      "title": "Postextraction Tooth Socket Care",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          311.25,
+          229.5
+        ],
+        [
+          499.5,
+          229.5
+        ],
+        [
+          499.5,
+          242.32158887386322
+        ],
+        [
+          311.25,
+          243.85088574886322
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          145
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 9250,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          196
+        ],
+        [
+          "Span",
+          96
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          12
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          201
+        ],
+        [
+          "Span",
+          90
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          43
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          107
+        ],
+        [
+          "Span",
+          60
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          75
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          63
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          101
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Picture",
+          6
+        ],
+        [
+          "Caption",
+          6
+        ],
+        [
+          "PictureGroup",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Figure",
+          5
+        ],
+        [
+          "Caption",
+          5
+        ],
+        [
+          "FigureGroup",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          86
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          73
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "FigureGroup",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          129
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          78
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          143
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          142
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          127
+        ],
+        [
+          "Span",
+          70
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          59
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          137
+        ],
+        [
+          "Span",
+          78
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PictureGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          77
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          76
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          63
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          30
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ch8"
+}
